@@ -1,0 +1,732 @@
+[
+  {
+    "title": "CLOSE 2 THE EDGE",
+    "year": "2026",
+    "src": "assets/official/close-2-the-edge.jpg",
+    "thumb": "assets/official/close-2-the-edge.jpg",
+    "releaseDate": "2026-10-30",
+    "date": "30 October 2026"
+  },
+  {
+    "title": "TECHNOLOG!C HUMAN",
+    "year": "2026",
+    "src": "assets/gallery/art-059.webp",
+    "thumb": "assets/gallery/art-059-thumb.webp",
+    "date": "04 September 2026",
+    "releaseDate": "2026-09-04",
+    "alternateSrc": "assets/gallery/art-067.webp"
+  },
+  {
+    "title": "CLUB: CEMETERY",
+    "year": "2026",
+    "src": "assets/gallery/art-065.webp",
+    "thumb": "assets/gallery/art-065-thumb.webp",
+    "date": "24 July 2026",
+    "releaseDate": "2026-07-24"
+  },
+  {
+    "title": "AFTERL!FE",
+    "year": "2026",
+    "src": "assets/gallery/art-068.webp",
+    "thumb": "assets/gallery/art-068-thumb.webp",
+    "date": "03 July 2026",
+    "releaseDate": "2026-07-03"
+  },
+  {
+    "title": "VILLAINOUS WAYS",
+    "year": "2026",
+    "src": "assets/gallery/art-057.webp",
+    "thumb": "assets/gallery/art-057-thumb.webp",
+    "date": "12 June 2026",
+    "releaseDate": "2026-06-12"
+  },
+  {
+    "title": "change my mind…",
+    "year": "2026",
+    "src": "assets/gallery/art-061.webp",
+    "thumb": "assets/gallery/art-061-thumb.webp",
+    "releaseDate": "2026-05-15",
+    "date": "15 May 2026"
+  },
+  {
+    "title": "EGO",
+    "year": "2026",
+    "src": "assets/gallery/art-058.webp",
+    "thumb": "assets/gallery/art-058-thumb.webp",
+    "releaseDate": "2026-05-08",
+    "date": "08 May 2026"
+  },
+  {
+    "title": "MISS OPERATOR",
+    "year": "2026",
+    "src": "assets/gallery/art-062.webp",
+    "thumb": "assets/gallery/art-062-thumb.webp",
+    "releaseDate": "2026-04-24",
+    "date": "24 April 2026"
+  },
+  {
+    "title": "REDLINE",
+    "year": "2026",
+    "src": "assets/gallery/art-060.webp",
+    "thumb": "assets/gallery/art-060-thumb.webp",
+    "releaseDate": "2026-04-03",
+    "date": "03 April 2026"
+  },
+  {
+    "title": "THE FLOOR IS LAVA!",
+    "year": "2026",
+    "src": "assets/gallery/art-064.webp",
+    "thumb": "assets/gallery/art-064-thumb.webp",
+    "releaseDate": "2026-02-27",
+    "date": "27 February 2026"
+  },
+  {
+    "title": "antidote <3",
+    "year": "2026",
+    "src": "assets/gallery/art-063.webp",
+    "thumb": "assets/gallery/art-063-thumb.webp",
+    "releaseDate": "2026-01-09",
+    "date": "09 January 2026"
+  },
+  {
+    "title": "echoes of a cryptwalker",
+    "year": "2026",
+    "src": "assets/gallery/art-016.webp",
+    "thumb": "assets/gallery/art-016-thumb.webp",
+    "releaseDate": "2026-01-02",
+    "date": "02 January 2026"
+  },
+  {
+    "title": "I WANT U (SPED UP)",
+    "year": "2025",
+    "src": "assets/gallery/art-025.webp",
+    "thumb": "assets/gallery/art-025-thumb.webp",
+    "releaseDate": "2025-12-05",
+    "date": "05 December 2025"
+  },
+  {
+    "title": "PREDATOR",
+    "year": "2025",
+    "src": "assets/gallery/art-017.webp",
+    "thumb": "assets/gallery/art-017-thumb.webp",
+    "releaseDate": "2025-11-07",
+    "date": "07 November 2025"
+  },
+  {
+    "title": "NOTHING ON U",
+    "year": "2025",
+    "src": "assets/gallery/art-019.webp",
+    "thumb": "assets/gallery/art-019-thumb.webp",
+    "releaseDate": "2025-10-10",
+    "date": "10 October 2025"
+  },
+  {
+    "title": "GLÓRIA",
+    "year": "2025",
+    "src": "assets/gallery/art-026.webp",
+    "thumb": "assets/gallery/art-026-thumb.webp",
+    "releaseDate": "2025-09-12",
+    "date": "12 September 2025"
+  },
+  {
+    "title": "TAKE !T OFF",
+    "year": "2025",
+    "src": "assets/gallery/art-023.webp",
+    "thumb": "assets/gallery/art-023-thumb.webp",
+    "releaseDate": "2025-08-22",
+    "date": "22 August 2025"
+  },
+  {
+    "title": "POLAROIDS",
+    "year": "2025",
+    "src": "assets/gallery/art-022.webp",
+    "thumb": "assets/gallery/art-022-thumb.webp",
+    "releaseDate": "2025-07-11",
+    "date": "11 July 2025"
+  },
+  {
+    "title": "AM I AWAKE?",
+    "year": "2025",
+    "src": "assets/gallery/art-018.webp",
+    "thumb": "assets/gallery/art-018-thumb.webp",
+    "releaseDate": "2025-06-20",
+    "date": "20 June 2025"
+  },
+  {
+    "title": "U AND I",
+    "year": "2025",
+    "src": "assets/gallery/art-027.webp",
+    "thumb": "assets/gallery/art-027-thumb.webp",
+    "releaseDate": "2025-05-30",
+    "date": "30 May 2025"
+  },
+  {
+    "title": "HOSTAGE",
+    "year": "2025",
+    "src": "assets/gallery/art-020.webp",
+    "thumb": "assets/gallery/art-020-thumb.webp",
+    "releaseDate": "2025-04-25",
+    "date": "25 April 2025"
+  },
+  {
+    "title": "LIVE FAST DIE YOUNG",
+    "year": "2025",
+    "src": "assets/gallery/art-024.webp",
+    "thumb": "assets/gallery/art-024-thumb.webp",
+    "releaseDate": "2025-04-04",
+    "date": "04 April 2025"
+  },
+  {
+    "title": "99",
+    "year": "2025",
+    "src": "assets/gallery/art-021.webp",
+    "thumb": "assets/gallery/art-021-thumb.webp",
+    "releaseDate": "2025-02-14",
+    "date": "14 February 2025"
+  },
+  {
+    "title": "BETWEEN THE LINES",
+    "year": "2024",
+    "src": "assets/gallery/art-030.webp",
+    "thumb": "assets/gallery/art-030-thumb.webp",
+    "releaseDate": "2024-09-27",
+    "date": "27 September 2024"
+  },
+  {
+    "title": "BETWEEN THE LINES SIDE A",
+    "year": "2024",
+    "src": "assets/gallery/art-033.webp",
+    "thumb": "assets/gallery/art-033-thumb.webp",
+    "releaseDate": "2024-09-27",
+    "date": "27 September 2024"
+  },
+  {
+    "title": "BETWEEN THE LINES SIDE B",
+    "year": "2024",
+    "src": "assets/gallery/art-034.webp",
+    "thumb": "assets/gallery/art-034-thumb.webp",
+    "releaseDate": "2024-09-27",
+    "date": "27 September 2024"
+  },
+  {
+    "title": "WORLD OF CHAOS NEWSPAPER",
+    "year": "2024",
+    "src": "assets/gallery/art-037.webp",
+    "thumb": "assets/gallery/art-037-thumb.webp",
+    "pdf": "assets/gallery/art-037.pdf",
+    "releaseDate": "2024-09-27",
+    "date": "27 September 2024"
+  },
+  {
+    "title": "the grass was never green",
+    "year": "2024",
+    "src": "assets/gallery/art-028.webp",
+    "thumb": "assets/gallery/art-028-thumb.webp",
+    "releaseDate": "2024-08-23",
+    "date": "23 August 2024"
+  },
+  {
+    "title": "EYES DON’T LIE",
+    "year": "2024",
+    "src": "assets/gallery/art-031.webp",
+    "thumb": "assets/gallery/art-031-thumb.webp",
+    "releaseDate": "2024-07-26",
+    "date": "26 July 2024"
+  },
+  {
+    "title": "AMARETTO",
+    "year": "2024",
+    "src": "assets/gallery/art-032.webp",
+    "thumb": "assets/gallery/art-032-thumb.webp",
+    "releaseDate": "2024-06-28",
+    "date": "28 June 2024"
+  },
+  {
+    "title": "U WON’T CATCH ME",
+    "year": "2024",
+    "src": "assets/gallery/art-035.webp",
+    "thumb": "assets/gallery/art-035-thumb.webp",
+    "releaseDate": "2024-05-24",
+    "date": "24 May 2024"
+  },
+  {
+    "title": "CRIMINAL MINDS 2",
+    "year": "2024",
+    "src": "assets/gallery/art-029.webp",
+    "thumb": "assets/gallery/art-029-thumb.webp",
+    "releaseDate": "2024-03-29",
+    "date": "29 March 2024"
+  },
+  {
+    "title": "WISHYWASHY",
+    "year": "2024",
+    "src": "assets/gallery/art-038.webp",
+    "thumb": "assets/gallery/art-038-thumb.webp",
+    "releaseDate": "2024-03-15",
+    "date": "15 March 2024"
+  },
+  {
+    "title": "VALLEY OF THE MOONLIGHT",
+    "year": "2024",
+    "src": "assets/gallery/art-036.webp",
+    "thumb": "assets/gallery/art-036-thumb.webp",
+    "releaseDate": "2024-03-01",
+    "date": "01 March 2024"
+  },
+  {
+    "title": "AHA!",
+    "year": "2023",
+    "src": "assets/gallery/art-054.webp",
+    "thumb": "assets/gallery/art-054-thumb.webp",
+    "releaseDate": "2023-12-22",
+    "date": "22 December 2023"
+  },
+  {
+    "title": "TIKI TAKA",
+    "year": "2023",
+    "src": "assets/gallery/art-049.webp",
+    "thumb": "assets/gallery/art-049-thumb.webp",
+    "releaseDate": "2023-12-01",
+    "date": "01 December 2023"
+  },
+  {
+    "title": "NEON JUNGLE",
+    "year": "2023",
+    "src": "assets/gallery/art-056.webp",
+    "thumb": "assets/gallery/art-056-thumb.webp",
+    "releaseDate": "2023-10-27",
+    "date": "27 October 2023"
+  },
+  {
+    "title": "ARMAGEDDON",
+    "year": "2023",
+    "src": "assets/gallery/art-052.webp",
+    "thumb": "assets/gallery/art-052-thumb.webp",
+    "releaseDate": "2023-10-20",
+    "date": "20 October 2023"
+  },
+  {
+    "title": "DROGA",
+    "year": "2023",
+    "src": "assets/gallery/art-044.webp",
+    "thumb": "assets/gallery/art-044-thumb.webp",
+    "releaseDate": "2023-09-22",
+    "date": "22 September 2023"
+  },
+  {
+    "title": "BLUDLUST (SPED UP)",
+    "year": "2023",
+    "src": "assets/gallery/art-051.webp",
+    "thumb": "assets/gallery/art-051-thumb.webp",
+    "releaseDate": "2023-09-01",
+    "date": "01 September 2023"
+  },
+  {
+    "title": "MATADOR",
+    "year": "2023",
+    "src": "assets/gallery/art-040.webp",
+    "thumb": "assets/gallery/art-040-thumb.webp",
+    "releaseDate": "2023-07-28",
+    "date": "28 July 2023"
+  },
+  {
+    "title": "BANDS!",
+    "year": "2023",
+    "src": "assets/gallery/art-041.webp",
+    "thumb": "assets/gallery/art-041-thumb.webp",
+    "releaseDate": "2023-07-07",
+    "date": "07 July 2023"
+  },
+  {
+    "title": "REPERCUSSION!",
+    "year": "2023",
+    "src": "assets/gallery/art-047.webp",
+    "thumb": "assets/gallery/art-047-thumb.webp",
+    "releaseDate": "2023-06-02",
+    "date": "02 June 2023"
+  },
+  {
+    "title": "BLACKED OUT",
+    "year": "2023",
+    "src": "assets/gallery/art-043.webp",
+    "thumb": "assets/gallery/art-043-thumb.webp",
+    "releaseDate": "2023-05-26",
+    "date": "26 May 2023"
+  },
+  {
+    "title": "UNDAGROUND",
+    "year": "2023",
+    "src": "assets/gallery/art-053.webp",
+    "thumb": "assets/gallery/art-053-thumb.webp",
+    "releaseDate": "2023-05-19",
+    "date": "19 May 2023"
+  },
+  {
+    "title": "EVIL TWINS",
+    "year": "2023",
+    "src": "assets/gallery/art-046.webp",
+    "thumb": "assets/gallery/art-046-thumb.webp",
+    "releaseDate": "2023-05-12",
+    "date": "12 May 2023"
+  },
+  {
+    "title": "MALEFICENT",
+    "year": "2023",
+    "src": "assets/gallery/art-045.webp",
+    "thumb": "assets/gallery/art-045-thumb.webp",
+    "releaseDate": "2023-04-28",
+    "date": "28 April 2023"
+  },
+  {
+    "title": "CALIENTE",
+    "year": "2023",
+    "src": "assets/gallery/art-048.webp",
+    "thumb": "assets/gallery/art-048-thumb.webp",
+    "releaseDate": "2023-04-21",
+    "date": "21 April 2023"
+  },
+  {
+    "title": "WHERE WERE U",
+    "year": "2023",
+    "src": "assets/gallery/art-039.webp",
+    "thumb": "assets/gallery/art-039-thumb.webp",
+    "releaseDate": "2023-04-07",
+    "date": "07 April 2023"
+  },
+  {
+    "title": "MURDER ON THE DANCEFLOOR",
+    "year": "2023",
+    "src": "assets/gallery/art-050.webp",
+    "thumb": "assets/gallery/art-050-thumb.webp",
+    "releaseDate": "2023-02-25",
+    "date": "25 February 2023"
+  },
+  {
+    "title": "3033",
+    "year": "2023",
+    "src": "assets/gallery/art-042.webp",
+    "thumb": "assets/gallery/art-042-thumb.webp",
+    "releaseDate": "2023-02-04",
+    "date": "04 February 2023"
+  },
+  {
+    "title": "BLUDLUST",
+    "year": "2023",
+    "src": "assets/gallery/art-055.webp",
+    "thumb": "assets/gallery/art-055-thumb.webp",
+    "releaseDate": "2023-01-13",
+    "date": "13 January 2023"
+  },
+  {
+    "title": "SUBLIMINAL CRIMINAL (SLOWED)",
+    "year": "2022",
+    "src": "assets/gallery/art-005.webp",
+    "thumb": "assets/gallery/art-005-thumb.webp",
+    "releaseDate": "2022-12-23",
+    "date": "23 December 2022"
+  },
+  {
+    "title": "REBELO",
+    "year": "2022",
+    "src": "assets/gallery/art-013.webp",
+    "thumb": "assets/gallery/art-013-thumb.webp",
+    "releaseDate": "2022-12-09",
+    "date": "09 December 2022"
+  },
+  {
+    "title": "BLACK N WHITE",
+    "year": "2022",
+    "src": "assets/gallery/art-008.webp",
+    "thumb": "assets/gallery/art-008-thumb.webp",
+    "releaseDate": "2022-12-02",
+    "date": "02 December 2022"
+  },
+  {
+    "title": "DIE 4 U",
+    "year": "2022",
+    "src": "assets/gallery/art-010.webp",
+    "thumb": "assets/gallery/art-010-thumb.webp",
+    "releaseDate": "2022-11-25",
+    "date": "25 November 2022"
+  },
+  {
+    "title": "DIRTY VIIBE",
+    "year": "2022",
+    "src": "assets/gallery/art-012.webp",
+    "thumb": "assets/gallery/art-012-thumb.webp",
+    "releaseDate": "2022-11-18",
+    "date": "18 November 2022"
+  },
+  {
+    "title": "RIDIN SLICK",
+    "year": "2022",
+    "src": "assets/gallery/art-002.webp",
+    "thumb": "assets/gallery/art-002-thumb.webp",
+    "releaseDate": "2022-09-23",
+    "date": "23 September 2022"
+  },
+  {
+    "title": "DEAD OF NIGHT",
+    "year": "2022",
+    "src": "assets/gallery/art-014.webp",
+    "thumb": "assets/gallery/art-014-thumb.webp",
+    "releaseDate": "2022-08-20",
+    "date": "20 August 2022"
+  },
+  {
+    "title": "I WANT U",
+    "year": "2022",
+    "src": "assets/gallery/art-003.webp",
+    "thumb": "assets/gallery/art-003-thumb.webp",
+    "releaseDate": "2022-07-15",
+    "date": "15 July 2022"
+  },
+  {
+    "title": "OYE",
+    "year": "2022",
+    "src": "assets/gallery/art-006.webp",
+    "thumb": "assets/gallery/art-006-thumb.webp",
+    "releaseDate": "2022-06-17",
+    "date": "17 June 2022"
+  },
+  {
+    "title": "SO COLD",
+    "year": "2022",
+    "src": "assets/gallery/art-004.webp",
+    "thumb": "assets/gallery/art-004-thumb.webp",
+    "releaseDate": "2022-06-03",
+    "date": "03 June 2022"
+  },
+  {
+    "title": "STATIC SHOCC",
+    "year": "2022",
+    "src": "assets/gallery/art-007.webp",
+    "thumb": "assets/gallery/art-007-thumb.webp",
+    "releaseDate": "2022-05-13",
+    "date": "13 May 2022"
+  },
+  {
+    "title": "X-RAY",
+    "year": "2022",
+    "src": "assets/gallery/art-001.webp",
+    "thumb": "assets/gallery/art-001-thumb.webp",
+    "releaseDate": "2022-04-09",
+    "date": "09 April 2022"
+  },
+  {
+    "title": "CREEPY DEMONS ARE MELTING MY BRAIN",
+    "year": "2022",
+    "src": "assets/gallery/art-009.webp",
+    "thumb": "assets/gallery/art-009-thumb.webp",
+    "releaseDate": "2022-04-02",
+    "date": "02 April 2022"
+  },
+  {
+    "title": "DEATH IN THE AIR",
+    "year": "2022",
+    "src": "assets/gallery/art-011.webp",
+    "thumb": "assets/gallery/art-011-thumb.webp",
+    "releaseDate": "2022-03-21",
+    "date": "21 March 2022"
+  },
+  {
+    "title": "VENOM",
+    "year": "2022",
+    "src": "assets/gallery/art-000.webp",
+    "thumb": "assets/gallery/art-000-thumb.webp",
+    "releaseDate": "2022-03-12",
+    "date": "12 March 2022"
+  },
+  {
+    "title": "RELOAD",
+    "year": "2022",
+    "src": "assets/gallery/art-015.webp",
+    "thumb": "assets/gallery/art-015-thumb.webp",
+    "releaseDate": "2022-01-29",
+    "date": "29 January 2022"
+  },
+  {
+    "title": "AMORZINHA",
+    "year": "2021",
+    "src": "assets/gallery/art-074.webp",
+    "thumb": "assets/gallery/art-074-thumb.webp",
+    "releaseDate": "2021-12-23",
+    "date": "23 December 2021"
+  },
+  {
+    "title": "FEAR MY WRATH",
+    "year": "2021",
+    "src": "assets/gallery/art-079.webp",
+    "thumb": "assets/gallery/art-079-thumb.webp",
+    "releaseDate": "2021-11-27",
+    "date": "27 November 2021"
+  },
+  {
+    "title": "HOTHEADZ",
+    "year": "2021",
+    "src": "assets/gallery/art-083.webp",
+    "thumb": "assets/gallery/art-083-thumb.webp",
+    "releaseDate": "2021-11-21",
+    "date": "21 November 2021"
+  },
+  {
+    "title": "ENTER THE FUEGO (SLOWED)",
+    "year": "2021",
+    "src": "assets/gallery/art-076.webp",
+    "thumb": "assets/gallery/art-076-thumb.webp",
+    "releaseDate": "2021-11-13",
+    "date": "13 November 2021"
+  },
+  {
+    "title": "ALIVE",
+    "year": "2021",
+    "src": "assets/gallery/art-072.webp",
+    "thumb": "assets/gallery/art-072-thumb.webp",
+    "releaseDate": "2021-10-23",
+    "date": "23 October 2021"
+  },
+  {
+    "title": "BONE COLLECTA",
+    "year": "2021",
+    "src": "assets/gallery/art-082.webp",
+    "thumb": "assets/gallery/art-082-thumb.webp",
+    "releaseDate": "2021-09-21",
+    "date": "21 September 2021"
+  },
+  {
+    "title": "BLUD IN THE WATER",
+    "year": "2021",
+    "src": "assets/gallery/art-075.webp",
+    "thumb": "assets/gallery/art-075-thumb.webp",
+    "releaseDate": "2021-08-28",
+    "date": "28 August 2021"
+  },
+  {
+    "title": "LAY LOW",
+    "year": "2021",
+    "src": "assets/gallery/art-080.webp",
+    "thumb": "assets/gallery/art-080-thumb.webp",
+    "releaseDate": "2021-07-31",
+    "date": "31 July 2021"
+  },
+  {
+    "title": "DON SZN",
+    "year": "2021",
+    "src": "assets/gallery/art-073.webp",
+    "thumb": "assets/gallery/art-073-thumb.webp",
+    "releaseDate": "2021-06-06",
+    "date": "06 June 2021"
+  },
+  {
+    "title": "ROTTEN!",
+    "year": "2021",
+    "src": "assets/gallery/art-077.webp",
+    "thumb": "assets/gallery/art-077-thumb.webp",
+    "releaseDate": "2021-05-18",
+    "date": "18 May 2021"
+  },
+  {
+    "title": "4:44AM",
+    "year": "2021",
+    "src": "assets/gallery/art-078.webp",
+    "thumb": "assets/gallery/art-078-thumb.webp",
+    "releaseDate": "2021-02-20",
+    "date": "20 February 2021"
+  },
+  {
+    "title": "so fresh so clean",
+    "year": "2021",
+    "src": "assets/gallery/art-081.webp",
+    "thumb": "assets/gallery/art-081-thumb.webp",
+    "releaseDate": "2021-01-24",
+    "date": "24 January 2021"
+  },
+  {
+    "title": "ENTER THE FUEGO",
+    "year": "2020",
+    "src": "assets/gallery/art-087.webp",
+    "thumb": "assets/gallery/art-087-thumb.webp",
+    "releaseDate": "2020-12-27",
+    "date": "27 December 2020"
+  },
+  {
+    "title": "MURDER IN THE AROMA",
+    "year": "2020",
+    "src": "assets/gallery/art-089.webp",
+    "thumb": "assets/gallery/art-089-thumb.webp",
+    "releaseDate": "2020-12-06",
+    "date": "06 December 2020"
+  },
+  {
+    "title": "EYE 4 AN EYE",
+    "year": "2020",
+    "src": "assets/gallery/art-090.webp",
+    "thumb": "assets/gallery/art-090-thumb.webp",
+    "releaseDate": "2020-10-31",
+    "date": "31 October 2020"
+  },
+  {
+    "title": "ANDALE",
+    "year": "2020",
+    "src": "assets/gallery/art-085.webp",
+    "thumb": "assets/gallery/art-085-thumb.webp",
+    "releaseDate": "2020-10-06",
+    "date": "06 October 2020"
+  },
+  {
+    "title": "NO PANA!",
+    "year": "2020",
+    "src": "assets/gallery/art-086.webp",
+    "thumb": "assets/gallery/art-086-thumb.webp",
+    "releaseDate": "2020-08-10",
+    "date": "10 August 2020"
+  },
+  {
+    "title": "64 TO NYC",
+    "year": "2020",
+    "src": "assets/gallery/art-084.webp",
+    "thumb": "assets/gallery/art-084-thumb.webp",
+    "releaseDate": "2020-06-13",
+    "date": "13 June 2020"
+  },
+  {
+    "title": "FUCK LIFE FOR GOOD",
+    "year": "2020",
+    "src": "assets/gallery/art-091.webp",
+    "thumb": "assets/gallery/art-091-thumb.webp",
+    "releaseDate": "2020-05-23",
+    "date": "23 May 2020"
+  },
+  {
+    "title": "SUBLIMINAL CRIMINAL",
+    "year": "2020",
+    "src": "assets/gallery/art-088.webp",
+    "thumb": "assets/gallery/art-088-thumb.webp",
+    "releaseDate": "2020-04-11",
+    "date": "11 April 2020"
+  },
+  {
+    "title": "CATACOMBS",
+    "year": "2019",
+    "src": "assets/gallery/art-070.webp",
+    "thumb": "assets/gallery/art-070-thumb.webp",
+    "releaseDate": "2019-12-12",
+    "date": "12 December 2019"
+  },
+  {
+    "title": "NUMB",
+    "year": "2019",
+    "src": "assets/gallery/art-069.webp",
+    "thumb": "assets/gallery/art-069-thumb.webp",
+    "releaseDate": "2019-07-04",
+    "date": "04 July 2019"
+  },
+  {
+    "title": "BEEF",
+    "year": "2019",
+    "src": "assets/gallery/art-071.webp",
+    "thumb": "assets/gallery/art-071-thumb.webp",
+    "releaseDate": "2019-03-24",
+    "date": "24 March 2019"
+  }
+]
